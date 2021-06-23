@@ -78,4 +78,5 @@ A continuación tienes los títulos y los enlaces a cada uno de los artículos, 
 * [ Qué color escoger para tu editor Vim ]( https://victorhckinthefreeworld.com/2021/05/05/que-color-escoger-para-tu-editor-vim/ )
 * [ Atajos de teclado de Vim en tmux ]( https://victorhckinthefreeworld.com/2021/05/12/atajos-de-teclado-de-vim-en-tmux/ )
 * [ Corrección ortográfica en Vim ]( https://victorhckinthefreeworld.com/2021/06/09/correccion-ortografica-en-vim/ )
-* [https://victorhckinthefreeworld.com/2021/06/23/abrir-ayuda-vim-pestana-nueva/]( Cómo abrir la ayuda de Vim en una pestaña nueva )
+* [ Cómo abrir la ayuda de Vim en una pestaña nueva ]( https://victorhckinthefreeworld.com/2021/06/23/abrir-ayuda-vim-pestana-nueva/ )
+
