@@ -1,4 +1,4 @@
-Colección de artículos sobre Vim que he publicado en [mi blog](https://victorhckinthefreeworld.com/tag/vim)
+Colección de artículos sobre Vim que he publicado en [mi blog](https://victorhckinthefreeworld.com/tag/vim).
 
 Puedes ver la lista de artículos en este enlace:
 
