@@ -1,4 +1,4 @@
-## Curso del editor Vim
+## Curso de Vim
 
 Desde hace tiempo en ![mi blog](https://victorhckinthefreeworld.com/tag/vim) escribo artículos relacionados con el editor Vim, sobre cosas nuevas y conceptos que voy aprendiendo y que comparto en mi blog.
 
