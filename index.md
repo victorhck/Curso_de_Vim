@@ -6,7 +6,7 @@ Yo lo he llamado "curso improvimsado" como juego de palabras entre el nombre del
 
 A continuación tienes los títulos y los enlaces a cada uno de los artículos, para que los sigas todos o escojas aquel que más necesites en un momento puntual.
 
-* ( https://victorhckinthefreeworld.com/2017/06/14/como-salir-del-editor-vim/ )[ Cómo salir del editor Vim ]
+* [ Cómo salir del editor Vim ]( https://victorhckinthefreeworld.com/2017/06/14/como-salir-del-editor-vim/ )
 * [https://victorhckinthefreeworld.com/2018/09/20/mejora-tu-experiencia-usando-el-editor-vim/]( Mejora tu experiencia usando el editor Vim )
 * [https://victorhckinthefreeworld.com/2019/03/05/vim-gitgutter-plugin-vim-git/]( vim-gitgutter es el plugin que necesitas si usas el editor Vim para trabajar con Git )
 * [https://victorhckinthefreeworld.com/2019/03/13/dando-mis-primeros-pasos-con-el-editor-vim/]( Dando mis primeros pasos con el editor Vim )
