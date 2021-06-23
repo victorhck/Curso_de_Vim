@@ -1,10 +1,10 @@
 ## Curso de Vim
 
-Desde hace tiempo en ![mi blog](https://victorhckinthefreeworld.com/tag/vim) escribo artículos relacionados con el editor Vim, sobre cosas nuevas y conceptos que voy aprendiendo y que comparto en mi blog.
+Desde hace tiempo en [mi blog](https://victorhckinthefreeworld.com/tag/vim) escribo artículos relacionados con el editor Vim, sobre cosas nuevas y conceptos que voy aprendiendo.
 
-Yo lo he llamado _curso improvimsado_ como juego de palabras entre el nombre del editor y el hecho de que los tutoriales no nacieron con la intención de convertirse en una serie, pero poco a poco si se está conviertiendo en una especie de compendio con un nexo común que nació por casualidad.
+Yo lo he llamado _curso improvimsado_ como juego de palabras entre el nombre del editor y el hecho de que los tutoriales no nacieron con la intención de convertirse en una serie, pero poco a poco si se están conviertiendo en una especie de compendio con un nexo común que nació por casualidad.
 
-A continuación tienes los títulos y los enlaces a cada uno de los artículos, para que los sigas todos o escojas aquel que más necesites en un momento puntual.
+A continuación tienes los títulos y los enlaces a cada uno de los artículos, para que los sigas todos o escojas aquel que más necesites en un momento puntual:
 
 * [ Cómo salir del editor Vim ]( https://victorhckinthefreeworld.com/2017/06/14/como-salir-del-editor-vim/ )
 * [ Mejora tu experiencia usando el editor Vim ]( https://victorhckinthefreeworld.com/2018/09/20/mejora-tu-experiencia-usando-el-editor-vim/ )
