@@ -79,6 +79,7 @@ A continuación tienes los títulos y los enlaces a cada uno de los artículos, 
 * [ Atajos de teclado de Vim en tmux ]( https://victorhckinthefreeworld.com/2021/05/12/atajos-de-teclado-de-vim-en-tmux/ )
 * [ Corrección ortográfica en Vim ]( https://victorhckinthefreeworld.com/2021/06/09/correccion-ortografica-en-vim/ )
 * [ Cómo abrir la ayuda de Vim en una pestaña nueva ]( https://victorhckinthefreeworld.com/2021/06/23/abrir-ayuda-vim-pestana-nueva/ )
+* [ Cómo usar el complemento de Vim vim-surround ]( https://victorhckinthefreeworld.com/2021/06/30/como-usar-complemento-vim-surround/ )
 
 Además de todo este material, también puedes consultar mi recopilación de comandos sobre Vim de consulta rápida
 
