@@ -81,6 +81,7 @@ A continuación tienes los títulos y los enlaces a cada uno de los artículos, 
 * [ Cómo abrir la ayuda de Vim en una pestaña nueva ]( https://victorhckinthefreeworld.com/2021/06/23/abrir-ayuda-vim-pestana-nueva/ )
 * [ Cómo usar el complemento de Vim vim-surround ]( https://victorhckinthefreeworld.com/2021/06/30/como-usar-complemento-vim-surround/ )
 * [Las macros en Vim](https://victorhckinthefreeworld.com/2021/07/14/las-macros-en-vim/)
+* [Añadir una barra de scroll en Vim](https://victorhckinthefreeworld.com/2021/08/25/anadir-barra-scroll-vim/)
 
 Además de todo este material, también puedes consultar mi recopilación de comandos sobre Vim de consulta rápida
 
