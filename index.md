@@ -90,6 +90,6 @@ Además de todo este material, también puedes consultar mi recopilación de com
 
 Y por supuesto la guía para aprender Vim (de la manera más inteligente)
 
-* [Aprende Vim (de la manera más inteligente](https://victorhck.gitbook.io/aprende-vim/)
+* [Aprende Vim (de la manera más inteligente)](https://victorhck.gitbook.io/aprende-vim/)
 
 Feliz _hjkl_
