@@ -83,6 +83,7 @@ A continuación tienes los títulos y los enlaces a cada uno de los artículos, 
 * [Las macros en Vim](https://victorhckinthefreeworld.com/2021/07/14/las-macros-en-vim/)
 * [Añadir una barra de scroll en Vim](https://victorhckinthefreeworld.com/2021/08/25/anadir-barra-scroll-vim/)
 * [Eliminar las líneas de un texto que contengan un texto en concreto](https://victorhckinthefreeworld.com/2021/09/15/eliminar-lineas-contengan-un-texto-vim/)
+* [Añadir un nuevo resaltado de sintaxis en Vim](https://victorhckinthefreeworld.com/2021/09/22/curso-de-vim-anadir-un-nuevo-resaltado-de-sintaxis-en-vim/)
 
 Además de todo este material, también puedes consultar mi recopilación de comandos sobre Vim de consulta rápida
 
