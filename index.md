@@ -84,6 +84,7 @@ A continuación tienes los títulos y los enlaces a cada uno de los artículos, 
 * [Añadir una barra de scroll en Vim](https://victorhckinthefreeworld.com/2021/08/25/anadir-barra-scroll-vim/)
 * [Eliminar las líneas de un texto que contengan un texto en concreto](https://victorhckinthefreeworld.com/2021/09/15/eliminar-lineas-contengan-un-texto-vim/)
 * [Añadir un nuevo resaltado de sintaxis en Vim](https://victorhckinthefreeworld.com/2021/09/22/curso-de-vim-anadir-un-nuevo-resaltado-de-sintaxis-en-vim/)
+* [Mostrar el commit que ha añadido una línea de un texto en Vim](https://victorhckinthefreeworld.com/2021/11/17/mostrar-el-commit-que-ha-anadido-la-linea-de-un-texto-en-vim/)
 
 Además de todo este material, también puedes consultar mi recopilación de comandos sobre Vim de consulta rápida
 
