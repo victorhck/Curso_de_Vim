@@ -88,6 +88,7 @@ A continuación tienes los títulos y los enlaces a cada uno de los artículos, 
 * [Corregir texto en el modo insertar mientras escribimos](https://victorhckinthefreeworld.com/2021/12/22/curso-de-vim-corregir-texto-en-el-modo-insertar-mientras-escribimos/)
 * [Entrevista a Bram Moolenaar, el creador de Vim](https://victorhckinthefreeworld.com/2022/01/19/entrevista-a-bram-moolenaar-el-creador-de-vim/)
 * [Cómo buscar y reemplazar un texto en múltiples archivos con Vim](https://victorhckinthefreeworld.com/2022/02/02/como-buscar-y-reemplazar-un-texto-en-multiples-archivos-con-vim/)
+* [Expandir una selección visual en Vim](https://victorhckinthefreeworld.com/2022/03/16/curso-de-vim-expandir-una-seleccion-visual-en-vim/)
 
 Además de todo este material, también puedes consultar mi recopilación de comandos sobre Vim de consulta rápida
 
