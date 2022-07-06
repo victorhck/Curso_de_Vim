@@ -93,6 +93,7 @@ A continuación tienes los títulos y los enlaces a cada uno de los artículos, 
 * [Actualizado vimtutor a la versión 1.7](https://victorhckinthefreeworld.com/2022/05/04/actualizado-vimtutor-a-la-version-1-7/)
 * [10 atajos de teclado útiles para Vim](https://victorhckinthefreeworld.com/2022/06/22/10-atajos-de-teclados-utiles-para-vim/)
 * [Pisa a fondo el pedal con el editor Vim](https://victorhckinthefreeworld.com/2022/06/29/pisa-a-fondo-el-pedal-con-el-editor-vim/)
+* [Cómo ejecutar el editor Vim sin ninguna configuración](https://victorhckinthefreeworld.com/2022/07/06/como-ejecutar-el-editor-vim-sin-niguna-configuracion/)
 
 Además de todo este material, también puedes consultar mi recopilación de comandos sobre Vim de consulta rápida
 
