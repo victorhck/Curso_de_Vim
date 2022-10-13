@@ -96,6 +96,7 @@ A continuación tienes los títulos y los enlaces a cada uno de los artículos, 
 * [Cómo ejecutar el editor Vim sin ninguna configuración](https://victorhckinthefreeworld.com/2022/07/06/como-ejecutar-el-editor-vim-sin-niguna-configuracion/)
 * [Comparar las diferencias entre archivos con Vimdiff](https://victorhckinthefreeworld.com/2022/09/15/comparar-diferencias-de-archivos-con-vimdiff/)
 * [7 hábitos para una edición de texto más eficiente con el editor Vim](https://victorhckinthefreeworld.com/2022/10/05/7-habitos-para-una-edicion-de-texto-mas-eficiente-con-el-editor-vim/)
+* [Cómo escribir en Vim caracteres unicode que no existen en el teclado](https://victorhckinthefreeworld.com/2022/10/12/como-escribir-en-vim-caracteres-unicode-que-no-existen-en-el-teclado/)
 
 Además de todo este material, también puedes consultar mi recopilación de comandos sobre Vim de consulta rápida
 
