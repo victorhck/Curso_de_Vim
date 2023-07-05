@@ -97,6 +97,7 @@ A continuación tienes los títulos y los enlaces a cada uno de los artículos, 
 * [Comparar las diferencias entre archivos con Vimdiff](https://victorhckinthefreeworld.com/2022/09/15/comparar-diferencias-de-archivos-con-vimdiff/)
 * [7 hábitos para una edición de texto más eficiente con el editor Vim](https://victorhckinthefreeworld.com/2022/10/05/7-habitos-para-una-edicion-de-texto-mas-eficiente-con-el-editor-vim/)
 * [Cómo escribir en Vim caracteres unicode que no existen en el teclado](https://victorhckinthefreeworld.com/2022/10/12/como-escribir-en-vim-caracteres-unicode-que-no-existen-en-el-teclado/)
+* [Cómo guardar en Vim archivos abiertos como solo lectura](https://victorhckinthefreeworld.com/2023/07/05/como-guardar-en-vim-archivos-abiertos-como-solo-lectura/)
 
 Además de todo este material, también puedes consultar mi recopilación de comandos sobre Vim de consulta rápida
 
